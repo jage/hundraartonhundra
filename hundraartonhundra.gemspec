@@ -21,7 +21,7 @@ spec = Gem::Specification.new do |s|
   s.extra_rdoc_files = ['README.MD']
 
   # Dependencies
-  s.add_dependency('nori', '~> 1.0')
+  s.add_dependency('nori', '~> 2.0')
 
   s.require_path = 'lib'
   s.files = %w(README.md) + Dir['{lib,spec}/**/*']
