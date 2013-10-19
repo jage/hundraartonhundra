@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queryResponse>
+    <query>
+        <queryString>087864000</queryString>
+        <offset>0</offset>
+        <pageSize>10</pageSize>
+    </query>
+    <response>
+        <personHits hitCount="0"/>
+        <companyHits hitCount="7">
+            <company sequenceNumber="0">
+                <organizationNumber>162021002627</organizationNumber>
+                <name type="legal">Riksdagens revisorer</name>
+                <address type="postal">
+                    <street>
+                        <name>Storkyrkobrinken</name>
+                        <number>13,</number>
+                    </street>
+                    <zip>11128</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864039</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864984</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864046</localNumber>
+                </phoneNumber>
+                <info>Kanslichef Åke Dahlberg</info>
+                <info>Utredn.chef Karin Brunsson</info>
+                <info>Utredn.chef Margaretha Stålfors</info>
+            </company>
+            <company sequenceNumber="1">
+                <organizationNumber>162021002627</organizationNumber>
+                <name type="legal">J O Justitieombudsmannen</name>
+                <address type="postal">
+                    <street>
+                        <name>Västra Trädgårdsgatan</name>
+                        <number>4</number>
+                    </street>
+                    <zip>11153</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <address type="postal">
+                    <street>
+                        <name>Box</name>
+                        <number>16327</number>
+                    </street>
+                    <zip>10326</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="fax">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>216558</localNumber>
+                </phoneNumber>
+                <info>Telefax</info>
+            </company>
+            <company sequenceNumber="2">
+                <organizationNumber>162021002627</organizationNumber>
+                <name type="legal">Riksdagens ombudsmän</name>
+                <address type="postal">
+                    <street>
+                        <name>Västra Trädgårdsgatan</name>
+                        <number>4</number>
+                    </street>
+                    <zip>11153</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <address type="postal">
+                    <street>
+                        <name>Box</name>
+                        <number>16327</number>
+                    </street>
+                    <zip>10326</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="fax">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>216558</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7865100</localNumber>
+                </phoneNumber>
+                <info>Telefax</info>
+                <info>Registratorsexp. direkt</info>
+            </company>
+            <company sequenceNumber="3">
+                <organizationNumber>162021002627</organizationNumber>
+                <name type="legal">Nordiska rådets svenska delegation</name>
+                <address type="postal">
+                    <street>
+                        <name>Riksdagen</name>
+                    </street>
+                    <zip>10012</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <address type="postal">
+                    <street>
+                        <name>Box</name>
+                        <number>2082</number>
+                    </street>
+                    <zip>10312</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7865038</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7865040</localNumber>
+                </phoneNumber>
+                <info>Kanslichef Bert Isacsson</info>
+                <info>Inf.sekr. Ossian Quiding</info>
+            </company>
+            <company sequenceNumber="4">
+                <organizationNumber>162021002627</organizationNumber>
+                <name type="legal">Sveriges riksdag</name>
+                <address type="postal">
+                    <street>
+                        <name>Helgeandsholmen</name>
+                    </street>
+                    <zip>11151</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>20</areaCode>
+                    <localNumber>349000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="fax">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7866143</localNumber>
+                </phoneNumber>
+                <teleAddress type="web">http://www.riksdagen.se</teleAddress>
+                <teleAddress type="email">riksdagsinformation@riksdagen.se</teleAddress>
+                <info>Frågor om riksdagen</info>
+            </company>
+            <company sequenceNumber="5">
+                <organizationNumber>162021002627</organizationNumber>
+                <name type="legal">Valprövningsnämnden</name>
+                <address type="postal">
+                    <street>
+                        <name>Riksdagen</name>
+                    </street>
+                    <zip>10012</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+            </company>
+            <company sequenceNumber="6">
+                <organizationNumber>168020005420</organizationNumber>
+                <name type="legal">Centerpartiets Riksorganisation</name>
+                <address type="postal">
+                    <street>
+                        <name>Stora Nygatan</name>
+                        <number>4</number>
+                    </street>
+                    <zip>11127</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <address type="postal">
+                    <street>
+                        <name>Box</name>
+                        <number>2200</number>
+                    </street>
+                    <zip>10315</zip>
+                    <city>STOCKHOLM</city>
+                    <country>SE</country>
+                </address>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>6173800</localNumber>
+                </phoneNumber>
+                <phoneNumber type="fax">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>6173810</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>6173811</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>6173822</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>6173831</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>6173841</localNumber>
+                </phoneNumber>
+                <phoneNumber type="pbx">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864000</localNumber>
+                </phoneNumber>
+                <phoneNumber type="landLine">
+                    <internationalPrefix>46</internationalPrefix>
+                    <areaCode>8</areaCode>
+                    <localNumber>7864467</localNumber>
+                </phoneNumber>
+                <info>Telefax</info>
+                <info>Partisekr.</info>
+                <info>Kanslichef</info>
+                <info>Informationschef</info>
+                <info>Organisationsombudsman</info>
+                <info>Riksdagsgruppens kansli Växel</info>
+                <info>Kanslichef</info>
+            </company>
+        </companyHits>
+    </response>
+</queryResponse>
+
