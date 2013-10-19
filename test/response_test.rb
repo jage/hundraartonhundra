@@ -7,7 +7,7 @@ class ResponseTest < MiniTest::Unit::TestCase
   end
 
   def test_response
-    assert_instance_of Hash, Hundraartonhundra::Response.parse(@body)
+    assert_instance_of Hashie::Mash, Hundraartonhundra::Response.parse(@body)
   end
 end
 

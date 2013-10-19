@@ -22,6 +22,7 @@ spec = Gem::Specification.new do |s|
 
   # Dependencies
   s.add_dependency('nori', '~> 2.0')
+  s.add_dependency('hashie', '~> 2.0')
 
   s.require_path = 'lib'
   s.files = %w(README.md) + Dir['{lib,spec}/**/*']
