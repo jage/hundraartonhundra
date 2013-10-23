@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/hundraartonhundra/response'
+require 'hundraartonhundra/response'
 
 class ResponseTest < MiniTest::Unit::TestCase
   def setup

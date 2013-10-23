@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/hundraartonhundra/client'
+require 'hundraartonhundra/client'
 
 class ClientTest < MiniTest::Unit::TestCase
   def test_api_key_requirement
