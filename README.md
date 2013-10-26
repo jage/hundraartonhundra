@@ -2,6 +2,13 @@
 
 Ruby library for talking to 118100 API. 118100 is a Swedish telephone directory service.
 
+# Development
+
+_This is work in progress_
+
+* Uses `Hashie::Mash`, this is just a hack and will be removed in the future.
+* Haven't pushed gem to [Rubygems](https://rubygems.org), will do when version is 1.0.0
+
 # Requirements
 
 * API key from 118100, get it at the [registration page](http://utveckling.118100.se/node/10)
